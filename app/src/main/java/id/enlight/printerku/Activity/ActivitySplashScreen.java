@@ -29,7 +29,7 @@ import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
 public class ActivitySplashScreen extends Activity {
 
-    public static final String SPLASH_SCREEN_OPTION = "twiscode.masakuuser.Activity.SplashScreensActivity";
+    public static final String SPLASH_SCREEN_OPTION = "id.enlight.printerku.Activity.ActivitySplashScreen";
     public static final String SPLASH_SCREEN_OPTION_1 = "Fade in + Ken Burns";
     public static final String SPLASH_SCREEN_OPTION_2 = "Down + Ken Burns";
     public static final String SPLASH_SCREEN_OPTION_3 = "Down + fade in + Ken Burns";
